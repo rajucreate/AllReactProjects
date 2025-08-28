@@ -1,0 +1,19 @@
+.page1{
+    background-color:yellow;
+    height:100vh;
+    font-size: x-large;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+}
+
+body{
+    margin:0px;
+    padding:0px;
+}
+
+.heading{
+    margin:0px;
+    border-style: dotted;
+}
