@@ -15,7 +15,7 @@ export default class App extends Component {
       const result = ecal(this.state.expression);
       this.setState({ result });
     }
-    catch(err){
+    catch(err){ 
       this.setState({result:"Enter valid expression"});
     }
   }
